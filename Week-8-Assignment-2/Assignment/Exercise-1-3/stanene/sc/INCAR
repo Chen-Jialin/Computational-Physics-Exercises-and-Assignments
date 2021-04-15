@@ -1,0 +1,21 @@
+System = stanene-armchair-edge-nanoribbon
+ISTART = 0
+#ICHARG = 11
+ISMEAR = 0
+SIGMA = 0.05
+ENCUT = 300
+EDIFF = 1E-3
+
+LSORBIT = .TRUE.
+MAGMOM = 60*0
+
+#LWAVE = .FALSE.
+#LCHARGE = .FALSE.
+
+GGA = PE
+
+LMAXMIX = 4
+
+NCORE = 4
+LREAL = Auto
+AMIN = 0.01

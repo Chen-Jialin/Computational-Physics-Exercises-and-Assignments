@@ -1,0 +1,6 @@
+k-points for bandstructure M-G-K-M
+ 8
+line
+reciprocal
+  0.00000  0.00000  0.00000 
+  0.00000  0.10000  0.00000 

@@ -1,0 +1,19 @@
+System = stanene
+ISTART = 0
+#ICHARG = 11
+ISMEAR = 0
+SIGMA = 0.05
+ENCUT = 500
+EDIFF = 1E-4
+
+LSORBIT = .TRUE.
+MAGMOM = 6*0
+
+#LWAVE = .FALSE.
+#LCHARGE = .FALSE.
+
+GGA = PE
+
+LMAXMIX = 4
+
+NCORE = 4

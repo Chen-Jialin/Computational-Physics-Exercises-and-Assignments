@@ -1,0 +1,3 @@
+本次计算得到的费米能级（DOSCAR第6行9.89510324）不如自洽计算（Example-2）中得到的精确，故在画能带时将Example-2中的DOSCAR复制到本文件夹
+
+$HOME/bin/VCARTool -b，产生的band.dat文件中存储了能带的数据，其开头的四个被注释的数字代表着KPOINTS中的四个k点，band.plt文件中存储了画能带的gnuplot代码，band.dat中被注释了的四个点的坐标对应band.plt中四条辅助线的横坐标
